@@ -37,5 +37,3 @@ src/
 3.Configure database in application.properties or XML config.
 
 4. Run the application on a server (e.g., Tomcat).
-
-5. Open in browser: http://localhost:8080/Employee_Management_System
